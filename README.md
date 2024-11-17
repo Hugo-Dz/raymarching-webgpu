@@ -8,7 +8,7 @@
 
 A ray marching implementation using WebGPU and Svelte 5, shaders written in WGSL.
 
-👉 [Online demo](https://www.hugoduprez.com/)
+👉 [Online demo](https://raymarching-webgpu.pages.dev/)
 
 Important: This application requires access to the WebGPU API. Please ensure your browser supports WebGPU.
 
